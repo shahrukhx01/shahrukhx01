@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/shahrukhx01/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
-I'm a Computer Scientist by training, however, I love the intersection of Data science and product engineering. I like to train neural networks on NLP datasets in general.
+I'm a Computer Scientist by training, however, I love the intersection of data science and product engineering. I like to train neural networks on NLP datasets in general.
 
 
 My open source contribution includes -
