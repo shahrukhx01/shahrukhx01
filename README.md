@@ -27,3 +27,4 @@ My open source contribution includes -
 - [**Obsei**](https://github.com/lalitpagaria/obsei) (**Contributor**): Obsei is intended to be a workflow automation tool for text analysis need. Obsei can help any organization in creation of NLP powered end to end workflow which can ease their customer engagement.
 - [**Multilingual PDF to Text**](https://github.com/shahrukhx01/multilingual-pdf2text) (**Creator**): A python library for extracting text from PDFs without losing the formatting of the PDF content.
 - [**Linkedin Jobs PyScraper**](https://github.com/shahrukhx01/linkedin-jobs-pyscraper) (**Creator**): Scrape public jobs postings from LinkedIn in native python without selenium or any headless browser.
+- [**clean-code-python**](https://github.com/zedr/clean-code-python) (**Contributor**): 🛁 Clean Code concepts adapted for Python
