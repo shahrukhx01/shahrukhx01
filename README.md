@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 I'm a Computer Scientist by training, however, I love the intersection of data science and product engineering. I like to train neural networks on NLP datasets in general.
 
 
-My open source contribution includes -
+My open source contributions include -
 - [**Haystack**](https://github.com/deepset-ai/haystack) (**Contributor**): Haystack is an end-to-end framework that enables you to build powerful and production-ready pipelines for different search use cases.
 - [**Obsei**](https://github.com/lalitpagaria/obsei) (**Contributor**): Obsei is intended to be a workflow automation tool for text analysis need. Obsei can help any organization in creation of NLP powered end to end workflow which can ease their customer engagement.
 - [**Multilingual PDF to Text**](https://github.com/shahrukhx01/multilingual-pdf2text) (**Creator**): A python library for extracting text from PDFs without losing the formatting of the PDF content.
