@@ -28,6 +28,7 @@ My open source contributions include -
 - [**Multilingual PDF to Text**](https://github.com/shahrukhx01/multilingual-pdf2text) (**Creator**): A python library for extracting text from PDFs without losing the formatting of the PDF content.
 - [**Linkedin Jobs PyScraper**](https://github.com/shahrukhx01/linkedin-jobs-pyscraper) (**Creator**): Scrape public jobs postings from LinkedIn in native python without selenium or any headless browser.
 - [**clean-code-python**](https://github.com/zedr/clean-code-python) (**Contributor**): 🛁 Clean Code concepts adapted for Python
-<p align="center">
+<br/><br/>
+
 [![Shahrukh's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahrukhx01&count_private=true&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
