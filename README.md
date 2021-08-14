@@ -24,9 +24,7 @@ I'm a Computer Scientist by training, however, I love the intersection of data s
 
 
 My open source contributions include -
-- [**Haystack**](https://github.com/deepset-ai/haystack) (**Contributor**): Haystack is an end-to-end framework that enables you to build powerful and production-ready pipelines for different search use cases.
-
-<img  height="600" align="center" src="https://user-images.githubusercontent.com/6007894/129435485-182e9c15-813f-46f6-be92-26e3526fd6f2.png" />
+- [**Haystack**](https://github.com/deepset-ai/haystack) (**Contributor**): Haystack is an end-to-end framework that enables you to build powerful and production-ready pipelines for different search use cases. <img  height="600" align="center" src="https://user-images.githubusercontent.com/6007894/129435485-182e9c15-813f-46f6-be92-26e3526fd6f2.png" />
 - [**Obsei**](https://github.com/lalitpagaria/obsei) (**Contributor**): Obsei is intended to be a workflow automation tool for text analysis need. Obsei can help any organization in creation of NLP powered end to end workflow which can ease their customer engagement.
 - [**Multilingual PDF to Text**](https://github.com/shahrukhx01/multilingual-pdf2text) (**Creator**): A python library for extracting text from PDFs without losing the formatting of the PDF content.
 - [**Linkedin Jobs PyScraper**](https://github.com/shahrukhx01/linkedin-jobs-pyscraper) (**Creator**): Scrape public jobs postings from LinkedIn in native python without selenium or any headless browser.
