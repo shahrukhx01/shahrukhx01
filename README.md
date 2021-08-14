@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm Shahrukh 👋</h1>
 <p align='center'>
   <a href="https://twitter.com/shahrukhx001"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/shahrukhx01/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/shahrukhx01/"><img style="margin-left:10%;" height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
 I'm a Computer Scientist by training, however, I love the intersection of data science and product engineering. I like to train neural networks on NLP datasets in general.
