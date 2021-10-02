@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p align='center'>
   <a href="https://twitter.com/shahrukhx001"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/shahrukhx01/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
-<a style="border-radius: 10px; background: white;" href="https://medium.com/@shahrukhx01"><img  height="30" src="https://miro.medium.com/max/8978/1*s986xIGqhfsN8U--09_AdA.png"></a>&nbsp;&nbsp;
+<a id="medium_link" href="https://medium.com/@shahrukhx01"><img  height="30" src="https://miro.medium.com/max/8978/1*s986xIGqhfsN8U--09_AdA.png"></a>&nbsp;&nbsp;
 </p>
 
 I'm a Computer Scientist by training, however, I love the intersection of data science and product engineering. I like to train neural networks on NLP datasets in general.
@@ -41,3 +41,10 @@ My open source contributions include -
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shahrukhx01&layout=compact&theme=material-palenight" />
 </a>
+
+<style>
+#medium_link{
+  border-radius: 10px; 
+  background: white;
+  }
+</style>
