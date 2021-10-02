@@ -42,9 +42,18 @@ My open source contributions include -
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shahrukhx01&layout=compact&theme=material-palenight" />
 </a>
 
+
+<svg fill="none" viewBox="0 0 300 120" width="300" height="120" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      
 <style>
 #medium_link{
   border-radius: 10px; 
   background: white;
   }
 </style>
+
+    </div>
+  </foreignObject>
+</svg>
