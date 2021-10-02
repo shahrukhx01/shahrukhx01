@@ -46,7 +46,7 @@ My open source contributions include -
 
       
 <style>
-#medium_link{
+#user-content-medium_link{
   border-radius: 10px; 
   background: white;
   }
