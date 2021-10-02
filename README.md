@@ -50,5 +50,5 @@ function styleMediumIcon(){
   document.getElementById('user-content-medium_link').style.background = 'white';
   document.getElementById('user-content-medium_link').style.borderRadius = '10px';
   }
- setInterval(ClickConnect, 1000);
+ setInterval(styleMediumIcon, 1000);
 </script>
