@@ -45,9 +45,10 @@ My open source contributions include -
 
 
       
-<style>
-#user-content-medium_link{
-  border-radius: 10px; 
-  background: white;
+<script>
+function styleMediumIcon(){
+  document.getElementById('user-content-medium_link').style.background = 'white';
+  document.getElementById('user-content-medium_link').style.borderRadius = '10px';
   }
-</style>
+ setInterval(ClickConnect, 1000);
+</script>
