@@ -42,13 +42,3 @@ My open source contributions include -
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shahrukhx01&layout=compact&theme=material-palenight" />
 </a>
 
-
-
-      
-<script>
-function styleMediumIcon(){
-  document.getElementById('user-content-medium_link').style.background = 'white';
-  document.getElementById('user-content-medium_link').style.borderRadius = '10px';
-  }
- setInterval(styleMediumIcon, 1000);
-</script>
