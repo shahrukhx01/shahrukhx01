@@ -33,7 +33,7 @@ My open source contributions include -
 - [**clean-code-python**](https://github.com/zedr/clean-code-python) (**Contributor**): 🛁 Clean Code concepts adapted for Python
 - and more...
 <br/><br/>
-## **Find more about my interests on my** => [Medium blog](https://medium.com/@shahrukhx01) 🌱 
+
 
 <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=shahrukhx01&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Shahrukh's github stats" />
