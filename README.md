@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi, I'm Shahrukh 👋</h1>
 <p align='center'>
-  <a href="https://twitter.com/shahrukhx001"><img height="30" src="https://github.com/shahrukhx01/shahrukhx01/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/shahrukhx01/"><img height="30" src="https://github.com/shahrukhx01/shahrukhx01/blob/main/icon/linkedin.png?raw=true"></a>
-<a href="https://huggingface.co/shahrukhx01/"><img height="30" src="https://github.com/shahrukhx01/shahrukhx01/blob/main/icon/huggingface.svg?raw=true"></a>
+  <a href="https://twitter.com/shahrukhx001"><img height="30" src="https://github.com/shahrukhx01/shahrukhx01/blob/main/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/shahrukhx01/"><img height="30" src="https://github.com/shahrukhx01/shahrukhx01/blob/main/linkedin.png?raw=true"></a>
+<a href="https://huggingface.co/shahrukhx01/"><img height="30" src="https://github.com/shahrukhx01/shahrukhx01/blob/main/huggingface.svg?raw=true"></a>
 <a  href="https://medium.com/@shahrukhx01"><img id="medium_link" height="30" src="https://github.com/shahrukhx01/shahrukhx01/blob/main/icon/medium.png?raw=true"></a>&nbsp;&nbsp;
 </p>
 
