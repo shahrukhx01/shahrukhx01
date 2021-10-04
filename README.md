@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/shahrukhx001"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/shahrukhx01/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 <a href="https://huggingface.co/shahrukhx01/"><img height="30" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"></a>
-<a  href="https://medium.com/@shahrukhx01"><img id="medium_link" height="30" src="https://miro.medium.com/max/8978/1*s986xIGqhfsN8U--09_AdA.png"></a>&nbsp;&nbsp;
+<a  href="https://medium.com/@shahrukhx01"><img id="medium_link" height="30" src="https://miro.medium.com/max/8976/1*Ra88BZ-CSTovFS2ZSURBgg.png"></a>&nbsp;&nbsp;
 </p>
 
 I'm a Computer Scientist by training, however, I love the intersection of data science and product engineering. I like to train neural networks on NLP datasets in general.
