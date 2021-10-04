@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <p align='center'>
   <a href="https://twitter.com/shahrukhx001"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/shahrukhx01/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://huggingface.co/shahrukhx01/"><img height="30" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"></a>
 <a  href="https://medium.com/@shahrukhx01"><img id="medium_link" height="30" src="https://miro.medium.com/max/8978/1*s986xIGqhfsN8U--09_AdA.png"></a>&nbsp;&nbsp;
 </p>
 
