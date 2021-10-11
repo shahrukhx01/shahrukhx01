@@ -35,6 +35,15 @@ My open source contributions include -
 <br/><br/>
 
 
+### Blog posts
+<!-- BLOG-POST-LIST:START -->
+- [Keyword Search using Dense Vectors & Filter Recommendation using Deep Learning and Haystack](https://medium.com/@shahrukhx01/keyword-search-using-dense-vectors-filter-recommendation-using-deep-learning-and-haystack-5b242de176d1)
+- [A Novel Approach for text-to-SQL: Dual Transformers Approach](https://medium.com/@shahrukhx01/a-novel-approach-for-text-to-sql-dual-transformers-approach-e2a285dfb630)
+- [Multi-Task Learning with Transformers: Transformers with Multiple Prediction Heads](https://medium.com/@shahrukhx01/multi-task-learning-with-transformers-part-1-multi-prediction-heads-b7001cf014bf)
+- [BERT for Chemical Industrial Domain: The first of its kind](https://medium.com/@shahrukhx01/bert-for-chemical-industrial-domain-the-first-of-its-kind-ae7e2c09708a)
+- [Dense Retrieval Benchmarking 101: Bootstrap benchmarking of custom domain-specific language models](https://medium.com/@shahrukhx01/dense-retrieval-benchmarking-101-bootstrap-benchmarking-of-custom-domain-specific-language-models-f9cb53125c84)
+<!-- BLOG-POST-LIST:END -->
+
 <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=shahrukhx01&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Shahrukh's github stats" />
 </a>
