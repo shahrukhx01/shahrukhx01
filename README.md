@@ -47,8 +47,5 @@ My open source contributions include -
 <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=shahrukhx01&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Shahrukh's github stats" />
 </a>
-<a align="center" href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shahrukhx01&layout=compact&theme=material-palenight" />
-</a>
+
 
