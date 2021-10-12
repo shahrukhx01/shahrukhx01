@@ -48,5 +48,5 @@ My open source contributions include -
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=shahrukhx01&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Shahrukh's github stats" />
 </a>
 
-
+<br/><br/>
 [![Profile Views](https://komarev.com/ghpvc/?username=shahrukhx01&color=blue&style=plastic)](https://github.com/shahrukhx01)
