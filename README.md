@@ -36,6 +36,10 @@ My open source contributions include -
 <br/><br/>
 
 
+### Research paper/book notes
+<!-- BLOG-POST-LIST:START -->
+- [NLP Research Notes and Resources](https://wave-position-b97.notion.site/Paper-Book-Notes-by-Shahrukh-96002e8e97c6487ea5fbf8ad4097731a)
+
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Keyword Search using Dense Vectors & Filter Recommendation using Deep Learning and Haystack](https://medium.com/@shahrukhx01/keyword-search-using-dense-vectors-filter-recommendation-using-deep-learning-and-haystack-5b242de176d1)
