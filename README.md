@@ -49,6 +49,13 @@ My open source contributions include -
 - [Dense Retrieval Benchmarking 101: Bootstrap benchmarking of custom domain-specific language models](https://medium.com/@shahrukhx01/dense-retrieval-benchmarking-101-bootstrap-benchmarking-of-custom-domain-specific-language-models-f9cb53125c84)
 <!-- BLOG-POST-LIST:END -->
 
+### Coverage of my work by others
+<!-- BLOG-POST-LIST:START -->
+- [Deepset: Save Time and Resources with the Query Classifier for Neural Search](https://www.deepset.ai/blog/save-resources-with-query-classifier-for-neural-search)
+- [A Novel Approach for text-to-SQL: Dual Transformers Approach](https://medium.com/@shahrukhx01/a-novel-approach-for-text-to-sql-dual-transformers-approach-e2a285dfb630)
+- [John Snow Labs: Bert for Sequence Classification (Question vs Statement)](https://nlp.johnsnowlabs.com/2021/11/04/bert_sequence_classifier_question_statement_en.html)
+<!-- BLOG-POST-LIST:END -->
+
 <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=shahrukhx01&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Shahrukh's github stats" />
 </a>
