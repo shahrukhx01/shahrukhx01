@@ -53,7 +53,7 @@ My open source contributions include -
 <!-- Coverage-POST-LIST:START -->
 - [Deepset: Save Time and Resources with the Query Classifier for Neural Search](https://www.deepset.ai/blog/save-resources-with-query-classifier-for-neural-search)
 - [John Snow Labs: Bert for Sequence Classification (Question vs Statement)](https://nlp.johnsnowlabs.com/2021/11/04/bert_sequence_classifier_question_statement_en.html)
-- [HenryAILabs about Query Clasiifier](https://www.youtube.com/watch?t=298&v=kVHmtPYmdb4&feature=youtu.be&ab_channel=HenryAILabs)
+- [HenryAILabs: Query Clasiifier](https://www.youtube.com/watch?t=298&v=kVHmtPYmdb4&feature=youtu.be&ab_channel=HenryAILabs)
 <!-- Coverage-POST-LIST:END -->
 
 <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
