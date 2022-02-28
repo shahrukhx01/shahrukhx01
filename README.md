@@ -40,8 +40,8 @@ My open source contributions include -
 <!-- BLOG-POST-LIST:START
 - [NLP Research Notes and Resources](https://wave-position-b97.notion.site/Paper-Book-Notes-by-Shahrukh-96002e8e97c6487ea5fbf8ad4097731a)
 -->
-### Blog posts
-<!-- BLOG-POST-LIST:START
+<!--### Blog posts
+ BLOG-POST-LIST:START
 - [Keyword Search using Dense Vectors & Filter Recommendation using Deep Learning and Haystack](https://medium.com/@shahrukhx01/keyword-search-using-dense-vectors-filter-recommendation-using-deep-learning-and-haystack-5b242de176d1)
 - [A Novel Approach for text-to-SQL: Dual Transformers Approach](https://medium.com/@shahrukhx01/a-novel-approach-for-text-to-sql-dual-transformers-approach-e2a285dfb630)
 - [Multi-Task Learning with Transformers: Transformers with Multiple Prediction Heads](https://medium.com/@shahrukhx01/multi-task-learning-with-transformers-part-1-multi-prediction-heads-b7001cf014bf)
@@ -49,8 +49,8 @@ My open source contributions include -
 - [Dense Retrieval Benchmarking 101: Bootstrap benchmarking of custom domain-specific language models](https://medium.com/@shahrukhx01/dense-retrieval-benchmarking-101-bootstrap-benchmarking-of-custom-domain-specific-language-models-f9cb53125c84)
 <!-- BLOG-POST-LIST:END -->
 
-### Coverage of my work by others
-<!-- Coverage-POST-LIST:START 
+<!--### Coverage of my work by others
+ Coverage-POST-LIST:START 
 - [Deepset: Save Time and Resources with the Query Classifier for Neural Search](https://www.deepset.ai/blog/save-resources-with-query-classifier-for-neural-search)
 - [John Snow Labs: Bert for Sequence Classification (Question vs Statement)](https://nlp.johnsnowlabs.com/2021/11/04/bert_sequence_classifier_question_statement_en.html)
 - [HenryAILabs: Query Clasiifier](https://www.youtube.com/watch?t=298&v=kVHmtPYmdb4&feature=youtu.be&ab_channel=HenryAILabs)
