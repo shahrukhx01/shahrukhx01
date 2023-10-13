@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <a  href="https://medium.com/@shahrukhx01"><img id="medium_link" height="30" src="https://github.com/shahrukhx01/shahrukhx01/blob/main/medium.png?raw=true"></a>&nbsp;&nbsp;
 </p>
 
-I am a graduate student at Max Planck Institute of Informatics and Saarland University. My research interests are at the intersection of Natural Language Processing, Deep Learning and Knowledge Graphs. I like to train neural networks on NLP datasets.
+I am an AI Engineer(Speech and Language Processing) at Yoummday GmbH. My research interests are at the intersection of Natural Language Processing, Deep Learning and Knowledge Graphs. I like to train neural networks on NLP datasets. Furthermore, I'd deeply intrigued by the evolution of multimodal networks.
 
 <!--
 My open source contributions include -
