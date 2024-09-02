@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p align='center'>
 <a href="https://twitter.com/shahrukhx001"><img height="30" src="https://github.com/shahrukhx01/shahrukhx01/blob/main/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/shahrukhx01/"><img height="30" src="https://github.com/shahrukhx01/shahrukhx01/blob/main/linkedin.png?raw=true"></a>
-<a href="https://wave-position-b97.notion.site/Paper-Book-Notes-by-Shahrukh-96002e8e97c6487ea5fbf8ad4097731a"><img height="30" src="https://github.com/shahrukhx01/shahrukhx01/blob/main/notion.png?raw=true"></a>
+<a href="https://wave-position-b97.notion.site/66378815522e41f3a1764f7fcafa7211?v=a2576dbae75349fda8ca2f1722ee5291"><img height="30" src="https://github.com/shahrukhx01/shahrukhx01/blob/main/notion.png?raw=true"></a>
 <a href="https://huggingface.co/shahrukhx01/"><img height="30" src="https://github.com/shahrukhx01/shahrukhx01/blob/main/huggingface.svg?raw=true"></a>
 <a  href="https://medium.com/@shahrukhx01"><img id="medium_link" height="30" src="https://github.com/shahrukhx01/shahrukhx01/blob/main/medium.png?raw=true"></a>&nbsp;&nbsp;
 </p>
