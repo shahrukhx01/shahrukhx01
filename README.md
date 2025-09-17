@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <a  href="https://medium.com/@shahrukhx01"><img id="medium_link" height="30" src="https://github.com/shahrukhx01/shahrukhx01/blob/main/medium.png?raw=true"></a>&nbsp;&nbsp;
 </p>
 
-I am an AI Engineer(Speech and Language Processing) at Yoummday GmbH. My research interests are at the intersection of Natural Language Processing, Deep Learning and Knowledge Graphs. I like to train neural networks on NLP datasets. Furthermore, I'd deeply intrigued by the evolution of multimodal networks.
+I am an AI Engineer(Speech and Language Processing) at Yoummday GmbH. My research interests are at the intersection of LLM Post-training and Optimized Distributed Inference of LLMs.
 
 <!--
 My open source contributions include -
